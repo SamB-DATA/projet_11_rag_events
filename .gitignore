@@ -13,3 +13,6 @@ data/vectorstore/
 
 # logs / OS
 .DS_Store
+
+data/processed/*
+!data/processed/sample_events.csv
